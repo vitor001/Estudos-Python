@@ -1,0 +1,26 @@
+Nome completo: Vitor
+Email: vitor@gmail.com
+CPF: 123.234.345-45
+RG: 12.323.434-5
+Telefone: 19987654321
+Idade: 21
+/ ------ / ------ / ------ / ------ / ------ / ------ / ------ / ------ / ------ / ------ 
+
+Nome completo: onesio
+Email: onesio@gmail.com
+CPF 321.432.543-54
+RG: 21.232.343-5
+Telefone: 19994763874
+Idade: 74
+<-- Paciente de risco!!! --> 
+/ ------ 
+/ ------ 
+/ ------ 
+/ ------ 
+/ ------ 
+/ ------ 
+/ ------ 
+/ ------ 
+/ ------ 
+/ ------ 
+
